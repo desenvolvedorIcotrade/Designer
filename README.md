@@ -1,7 +1,7 @@
 
 <!DOCTYPE html>
 <html>
-<title>W3.CSS Template</title>
+<title>Template</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -111,7 +111,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
           <li class="w3-padding-16">Mail Support</li>
           <li class="w3-padding-16">
             <h2>$ 100</h2>
-            <span class="w3-opacity">per month</span>
+            <span class="w3-opacity">6 meses</span>
           </li>
           <li class="w3-light-grey w3-padding-24">
             <button class="w3-button w3-white w3-padding-large w3-hover-black">Sign Up</button>
@@ -126,7 +126,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
           <li class="w3-padding-16">Endless Support</li>
           <li class="w3-padding-16">
             <h2>$ 250</h2>
-            <span class="w3-opacity">per month</span>
+            <span class="w3-opacity"> vitalício </span>
           </li>
           <li class="w3-light-grey w3-padding-24">
             <button class="w3-button w3-white w3-padding-large w3-hover-black">Sign Up</button>
