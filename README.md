@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 <html>
 <title>Template</title>
 <meta charset="UTF-8">
