@@ -57,7 +57,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
     <h1 class="w3-jumbo"><span class="w3-hide-small">I'm</span> Cleverton Roch.</h1>
     <p> Web Designer.</p>
-    <img class="CSS_LIGHTBOX_SCALED_IMAGE_IMG" src="  <img class="CSS_LIGHTBOX_SCALED_IMAGE_IMG" src="https://4.bp.blogspot.com/-gCe1lQeYno4/XA0jZZBayrI/AAAAAAAAFQE/yBqLpGrNfHASBVnyJlMBTDUff5rWatjTQCLcBGAs/s1600/26804460_410119959442321_3948283706510173445_n.jpg" style="width: 355px; height: 554px;">  
+ <img class="CSS_LIGHTBOX_SCALED_IMAGE_IMG" src="https://4.bp.blogspot.com/-gCe1lQeYno4/XA0jZZBayrI/AAAAAAAAFQE/yBqLpGrNfHASBVnyJlMBTDUff5rWatjTQCLcBGAs/s1600/26804460_410119959442321_3948283706510173445_n.jpg" style="width: 355px; height: 554px;">  
   </header>
 
   <!-- About Section -->
